@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Blog de Noticias</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    
+    .post {
+      margin-bottom: 30px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #ccc;
+    }
+    
+    .post-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+    }
+    
+    .post-date {
+      font-style: italic;
+      color: #777;
+    }
+    
+    .post-author {
+      font-weight: bold;
+      color: #555;
+    }
+    
+    .post-content {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mi Blog de Noticias</h1>
+  
+  <div class="post">
+    <h2 class="post-title">Título de la Noticia 1</h2>
+    <p class="post-date">Fecha: 20 de junio de 2023</p>
+    <p class="post-author">Autor: Juan Pérez</p>
+    <div class="post-content">
+      <p>Contenido de la noticia 1...</p>
+    </div>
+  </div>
+  
+  <div class="post">
+    <h2 class="post-title">Título de la Noticia 2</h2>
+    <p class="post-date">Fecha: 19 de junio de 2023</p>
+    <p class="post-author">Autor: María López</p>
+    <div class="post-content">
+      <p>Contenido de la noticia 2...</p>
+    </div>
+  </div>
+  
+  <!-- Agrega más entradas de noticias o publicaciones de blog aquí -->
+  
+</body>
+</html>
