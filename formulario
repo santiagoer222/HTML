@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <h1>Formulario de Contacto</h1>
+  <form>
+  <h2>Nombre</h2>
+    <input type="text" id="nombre" name="nombre" required>
+     <h3><b>Email</b></h3>
+     <input type="email" id="email" name="email" required>
+    <h4>Mensaje</h4>
+    <input id="mensaje" name="mensaje" rows="4" required>
+   
+    <button type="submit">Enviar</button>
+  </form>
+</body>
+</html>
