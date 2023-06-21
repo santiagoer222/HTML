@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    ul {list-style-type: none;
+      padding: 0;}
+   
+    li {
+      margin-bottom: 10px;
+    }
+   
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+   
+    input[type="checkbox"] {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Lista de tareas</h1>
+  <ul>
+    <li>
+      <label>
+        <input type="checkbox" /> Tarea 1
+      </label>
+      <p>Leer 10 paginas de Cronica de una muerte anunciada</p>
+    </li>
+    <li>
+      <label>
+        <input type="checkbox" /> Tarea 2
+      </label>
+      <p>Realizar aseo a mi casa</p>
+    </li>
+    <li>
+      <label>
+        <input type="checkbox" /> Tarea 3
+      </label>
+      <p>Realizar la maqueta de fisica y la guia</p>
+    </li>
+    <li>
+      <label>
+        <input type="checkbox" /> Tarea 4
+      </label>
+      <p>Estudiar para examenes</p>
+    </li>
+    </ul>
+</body>
+</html>
