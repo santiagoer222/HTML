@@ -8,34 +8,34 @@
       margin: 0;
       padding: 20px;
     }
-    
+
     h1 {
       text-align: center;
       color: #333;
     }
-    
+
     .post {
       margin-bottom: 30px;
       padding-bottom: 10px;
       border-bottom: 1px solid #ccc;
     }
-    
+
     .post-title {
       font-size: 24px;
       font-weight: bold;
       color: #333;
     }
-    
+
     .post-date {
       font-style: italic;
       color: #777;
     }
-    
+
     .post-author {
       font-weight: bold;
       color: #555;
     }
-    
+
     .post-content {
       margin-top: 10px;
     }
@@ -43,26 +43,29 @@
 </head>
 <body>
   <h1>Mi Blog de Noticias</h1>
-  
+
   <div class="post">
-    <h2 class="post-title">Título de la Noticia 1</h2>
-    <p class="post-date">Fecha: 20 de junio de 2023</p>
-    <p class="post-author">Autor: Juan Pérez</p>
+    <h2 class="post-title">Exponen consecuencias de la fluctuación del dólar</h2>
+    <p class="post-date">Fecha: 27 de junio de 2023</p>
+    <p class="post-author">Autor: Diario del sur</p>
     <div class="post-content">
-      <p>Contenido de la noticia 1...</p>
+      <p>En la visita que DIARIO DEL SUR realizó a la frontera, los cambistas Carlos Huertas, Luis Peliacho, Segundo Ayala y Eddy Martínez, afirmaron que la afluencia de personas ha bajado considerablemente en Rumichaca.</p>
+
+ <p>En diálogo con el presidente del Sindicato de Cambistas de la ciudad de Ipiales, Julio Erazo, se dio a conocer las consecuencias que ha sufrido este gremio.</p>
+  <img src="https://www.diariodelsur.com.co/wp-content/uploads/2023/06/Foto-1-31-e1687908259771.jpg"style="height:200px">
     </div>
   </div>
-  
+
   <div class="post">
-    <h2 class="post-title">Título de la Noticia 2</h2>
-    <p class="post-date">Fecha: 19 de junio de 2023</p>
-    <p class="post-author">Autor: María López</p>
+    <h2 class="post-title">120 mil niños en riesgo de no recibir PAE (Programa de Alimentación Escolar) en la Guajira</h2>
+    <p class="post-date">Fecha: 27 de junio de 2023</p>
+    <p class="post-author">Autor: Diario del sur</p>
     <div class="post-content">
-      <p>Contenido de la noticia 2...</p>
+      <p>La Contraloría alertó que más de 122.000 estudiantes en La Guajira podrían quedarse sin recibir los alimentos del Programa de Alimentación Escolar (PAE) debido al incumplimiento de contratos. La situación pone en peligro la continuidad del servicio durante el calendario académico.</p>
+       <img src="https://www.diariodelsur.com.co/wp-content/uploads/2023/06/image-26.png"style="height:200px">
     </div>
   </div>
-  
+
   <!-- Agrega más entradas de noticias o publicaciones de blog aquí -->
-  
 </body>
 </html>
